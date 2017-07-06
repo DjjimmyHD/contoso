@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contoso", "contoso\contoso.csproj", "{00CF1E70-E2F3-425B-9990-83B7F544D5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contoso.Tests", "contoso.Tests\contoso.Tests.csproj", "{3C9ECD37-7324-48EF-92FE-DC2C4014BCA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CF1E70-E2F3-425B-9990-83B7F544D5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CF1E70-E2F3-425B-9990-83B7F544D5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CF1E70-E2F3-425B-9990-83B7F544D5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CF1E70-E2F3-425B-9990-83B7F544D5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9ECD37-7324-48EF-92FE-DC2C4014BCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9ECD37-7324-48EF-92FE-DC2C4014BCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9ECD37-7324-48EF-92FE-DC2C4014BCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9ECD37-7324-48EF-92FE-DC2C4014BCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
